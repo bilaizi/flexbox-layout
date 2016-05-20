@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidSdk\platforms\android-N\android.jar"
+        revision="24.0.0 rc4"
+        sha1="ebd8b299582d0ca5e63a1f6562cd2140fcd43189">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\runtime\android-3da58172f3b4c5fc60275ecacddeaedfba65bb86.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-aaff54ef789ae26e2338014de7f226ba1e641798.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        revision="24.0.0 rc4"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\internal_impl-23.4.0-c7b1ac054dd9675ceca6c54edf1357d17b2d067e.jar" />
+    </item>
+    <item
+        jar="F:\AndroidSdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        revision="24.0.0 rc4"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\support-annotations-23.4.0-10be922879347d33990dd38fee048f34c904cc13.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-226c3e1a701e68d4a28315a62b3d63face6763d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-f7cc627cb260d6f5091da3c9dbae29b2a8c9a8db.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-d103b8ab8236228a1e34f370a2fac8be9cc209e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.google.android\flexbox\0.1.3\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="efd9e657140152135382f26d346882512862fb6e">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-2d68d3318941bea578eb1367b776118081644fb2.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-f127580257bb2026882a06ffb1a5814de760938b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        revision="24.0.0 rc4"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\bilaizi\Desktop\flexbox-layout\app\build\intermediates\jill\debug\packaged\classes-f9b6897d5820eb684c032e8f2eb3cfeacc5b94ff.jar" />
+    </item>
+
+</items>
